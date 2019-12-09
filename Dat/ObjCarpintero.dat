@@ -1,5 +1,5 @@
 [INIT]
-NumObjs=34
+NumObjs=36
 
 [OBJ1] 'Flecha
 Index=480
@@ -102,3 +102,10 @@ Index=800
 
 [OBJ34] 'Caña de Pescar
 Index=138
+
+[OBJ35] 
+Index=1134
+
+[OBJ36] 
+Index=1135
+
